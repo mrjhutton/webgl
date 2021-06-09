@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CS30S_2021Group1",
+"productVersion": "0.1",
+"dataUrl": "NetBeanz.data.unityweb",
+"wasmCodeUrl": "NetBeanz.wasm.code.unityweb",
+"wasmFrameworkUrl": "NetBeanz.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.10f1"
+}
